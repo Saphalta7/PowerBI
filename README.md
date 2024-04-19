@@ -1,1 +1,2 @@
+Tools Used: Power BI and Excel
 This visualization helps us see where to buy our food depending on the price and the store. It shows how much different food costs at different stores. This way, we can choose where to shop for groceries to get the best deals. Whether we're comparing prices for one item or looking at overall costs at different stores, this picture helps us make smart decisions about where to buy our food. It's an easy way to find good deals without spending too much money.
